@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/bin/Debug/net7.0/CircleObjectsLab
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/bin/Debug/net7.0/CircleObjectsLab.deps.json
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/bin/Debug/net7.0/CircleObjectsLab.runtimeconfig.json
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/bin/Debug/net7.0/CircleObjectsLab.dll
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/bin/Debug/net7.0/CircleObjectsLab.pdb
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.AssemblyInfo.cs
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.dll
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/refint/CircleObjectsLab.dll
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.pdb
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/CircleObjectsLab.genruntimeconfig.cache
+/Users/camerondixon/Projects/CircleObjectsLab/CircleObjectsLab/obj/Debug/net7.0/ref/CircleObjectsLab.dll
