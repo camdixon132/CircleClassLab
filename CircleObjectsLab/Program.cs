@@ -1,5 +1,6 @@
 ﻿using CircleObjectsLab;
 
+
 bool runProgram = true;
 int circleCount = 0;
 
@@ -11,7 +12,21 @@ while (runProgram)
     circleCount += 1;
 
     Console.WriteLine("Enter radius");
-    double input = double.Parse(Console.ReadLine());
+    double input = -1;
+
+    while (input <= 0)
+    {
+       while(double.TryParse(Console.ReadLine(), out input) == false)
+        {
+            Console.WriteLine("Invalid input, try again.");
+        }
+       if(input <= 0)
+        {
+            Console.WriteLine("Number too low, please try again.");
+        }
+    }
+
+   
 
     Circle userCircle = new Circle(input);
 
